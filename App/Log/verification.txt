@@ -1,0 +1,1 @@
+my-microframework.loc/verification?verif-token=57d4fb2b124a06a05007a583a08f6aecca473074963c4e6241edfce71a6a447cada997cdc99a73ff3bf809a7d8ead32a10e0&email=test@gmail.com

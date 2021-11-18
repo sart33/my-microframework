@@ -1,0 +1,190 @@
+Exception message: Validate description - error: description is 'r'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate feed - error: feed is 'Тетрамин хлопья, Тетрадискус'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate feed_quantity - error: feed_quantity is '-100'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 224
+Exception message: Validate added_po4 - error: added_po4 is '0'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate added_po4 - error: added_po4 is '0'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate description - length exception: description is '99999999'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate added_micro - length exception: added_micro is '0'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate added_micro - length exception: added_micro is '0'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate added_micro - length exception: added_micro is '0'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate added_micro - length exception: added_micro is '5'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 243
+Exception message: Validate added_no3 - out of range exception: added_no3 is '-1'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 224
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+[2021-10-11 00:19:06] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+[2021-10-11 00:30:41] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 252
+[2021-10-11 00:30:50] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 252
+[2021-10-11 00:49:52] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-11 00:50:35] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-11 00:51:53] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-11 00:52:25] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-12 00:23:24] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 152
+[2021-10-12 00:23:36] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 152
+[2021-10-12 00:23:39] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 152
+[2021-10-12 00:25:06] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 152
+[2021-10-12 00:25:18] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 152
+[2021-10-13 00:09:28] Exception message: Validate img_three - length exception: img_three is 'null'. in file: /var/www/my-microframework/App/Model/Model.php line number: 222
+[2021-10-13 00:14:27] Exception message: Validate img_three - length exception: img_three is 'null'. in file: /var/www/my-microframework/App/Model/Model.php line number: 222
+[2021-10-13 01:23:10] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-13 01:25:41] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-14 23:48:58] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 245
+[2021-10-15 00:23:55] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 246
+[2021-10-15 17:49:11] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 17:52:04] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 22:17:03] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 22:17:37] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 22:24:04] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 23:43:18] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 23:43:20] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 23:43:49] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 23:47:21] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-15 23:51:02] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 00:09:38] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 00:10:23] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 00:28:09] Exception message: Validate img_one - domain exception: img_one is '5cc3525e0ed45b60325bb01c0d19b2e0.png'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 90
+[2021-10-16 00:28:21] Exception message: Validate img_one - domain exception: img_one is '5cc3525e0ed45b60325bb01c0d19b2e0.png'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 90
+[2021-10-16 23:23:14] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 23:25:29] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 23:26:10] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 23:31:24] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 23:32:01] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-16 23:44:34] Exception message: Validate img_one - domain exception: img_one is 'd32376fcae36043011efa563c784390f.png'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 90
+[2021-10-16 23:46:46] Exception message: Validate img_one - domain exception: img_one is 'd32376fcae36043011efa563c784390f.png'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 90
+[2021-10-17 16:11:25] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 16:11:26] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:52:11] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:52:14] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:52:18] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:52:22] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:52:23] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:52:25] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:52:54] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:54:25] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:55:04] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:55:38] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:55:42] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:57:10] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 22:57:12] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-17 23:02:21] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-20 00:14:05] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-20 00:14:14] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-20 00:14:24] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-20 00:21:24] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-23 01:27:34] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-25 04:42:34] Exception message: Validate temperature - logic exception: temperature is '27'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 104
+[2021-10-29 23:16:04] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-29 23:20:58] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-29 23:23:20] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-29 23:27:46] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-29 23:31:22] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 00:00:38] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 00:20:36] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 01:46:42] Exception message: Validate temperature - length exception: temperature is 'null'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-10-30 14:32:38] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 16:28:46] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 22:22:25] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 22:22:35] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 22:24:41] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 22:25:48] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-30 23:51:07] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-10-31 00:20:55] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 00:20:58] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 00:21:03] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 00:21:52] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 00:32:47] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 00:36:56] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 14:44:10] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 15:31:54] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 17:47:02] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 17:47:32] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 17:47:36] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 17:50:05] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 17:59:18] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 18:02:28] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 22:06:05] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-10-31 22:24:53] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 44
+[2021-11-01 01:42:44] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-01 01:44:07] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-01 01:44:32] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-01 01:44:33] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-01 01:47:17] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-01 18:19:02] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-01 22:20:33] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-11-01 22:20:38] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-11-01 23:55:47] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 00:56:36] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 01:12:07] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 01:26:44] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 03:08:13] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 03:08:13] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 03:11:16] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 03:11:16] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 04:10:54] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 04:47:02] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 04:47:02] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 05:31:23] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-02 05:31:23] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-03 03:31:43] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-04 23:05:51] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-05 22:48:58] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-11-05 22:49:09] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-11-05 22:49:26] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-11-05 22:51:58] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-11-05 22:52:32] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 101
+[2021-11-06 00:40:01] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-07 23:04:19] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-08 23:52:03] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-08 23:52:26] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-08 23:52:27] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-08 23:52:55] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-08 23:52:55] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-11 01:13:14] Exception message: Validate video_one - domain exception: video_one is '03475a48c451519fde06a29641cb1283.mp4'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 135
+[2021-11-11 01:13:18] Exception message: Validate video_one - domain exception: video_one is '03475a48c451519fde06a29641cb1283.mp4'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 135
+[2021-11-11 01:13:26] Exception message: Validate video_one - domain exception: video_one is '03475a48c451519fde06a29641cb1283.mp4'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 135
+[2021-11-11 01:14:09] Exception message: Validate video_one - domain exception: video_one is '03475a48c451519fde06a29641cb1283.mp4'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 135
+[2021-11-11 01:15:24] Exception message: Validate video_one - domain exception: video_one is '03475a48c451519fde06a29641cb1283.mp4'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 135
+[2021-11-11 22:03:32] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-12 03:29:25] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-12 03:30:03] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-12 03:30:04] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-12 03:30:04] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-12 03:32:31] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-12 22:09:47] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-13 11:00:49] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 140
+[2021-11-13 11:01:33] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 140
+[2021-11-13 11:02:30] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 140
+[2021-11-13 11:02:36] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 140
+[2021-11-13 11:03:38] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 140
+[2021-11-13 11:03:53] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 140
+[2021-11-13 11:03:57] Exception message: Validate daylight_hours - length exception: daylight_hours is '8'. in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 140
+[2021-11-14 00:30:36] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-14 00:42:15] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-14 00:42:31] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 154
+[2021-11-14 00:58:18] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 154
+[2021-11-14 00:58:47] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-14 01:05:23] Exception message: User with this email already exist in file: /var/www/my-microframework/App/Model/User.php line number: 154
+[2021-11-14 01:08:06] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-14 01:09:39] Exception message: Invalid sql query syntax in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 49
+[2021-11-15 02:04:09] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 00:05:23] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 00:05:32] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 00:12:45] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 00:15:56] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 00:16:37] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 01:01:33] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 01:01:35] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 01:03:19] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 01:16:24] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 01:25:36] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 01:25:50] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 01:27:07] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 02:25:04] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243
+[2021-11-18 02:25:07] Exception message: 'id' - is not valid! in file: /var/www/my-microframework/App/Model/User.php line number: 243

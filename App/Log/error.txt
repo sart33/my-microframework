@@ -1,0 +1,10 @@
+Error message: Validate Namespace - parse error: Namespace is 'App\Model\Aquarium'.. message code: 0 in file: /var/www/my-microframework/App/Model/Model.php line number: 250
+Error message: Too few arguments to function App\Model\Model::validate(), 0 passed in /var/www/my-microframework/App/Model/User.php on line 42 and exactly 2 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 206
+Error message: Too few arguments to function App\Model\Model::validate(), 0 passed in /var/www/my-microframework/App/Model/User.php on line 42 and exactly 2 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 206
+Error message: Too few arguments to function App\Model\Model::validate(), 0 passed in /var/www/my-microframework/App/Model/User.php on line 42 and exactly 2 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 206
+Error message: Too few arguments to function App\Model\Model::validate(), 0 passed in /var/www/my-microframework/App/Model/User.php on line 42 and exactly 2 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 206
+Error message: Too few arguments to function App\Model\Model::validate(), 0 passed in /var/www/my-microframework/App/Model/User.php on line 42 and exactly 2 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 206
+Error message: input data is empty in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Error message: input data is empty in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Error message: input data is empty in file: /var/www/my-microframework/App/Model/Model.php line number: 253
+Error message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 253

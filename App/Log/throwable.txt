@@ -1,0 +1,230 @@
+[2021-10-12 22:46:57] Exception message: Argument 1 passed to App\Controller\AquariumController::editAction() must be an instance of App\Model\Aquarium, string given, called in /var/www/my-microframework/App/Controller/Routing.php on line 71 in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 170
+[2021-10-12 22:54:10] Exception message: Argument 1 passed to App\Controller\AquariumController::editAction() must be an instance of App\Model\Aquarium, string given, called in /var/www/my-microframework/App/Controller/Routing.php on line 71 in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 170
+[2021-10-12 22:56:07] Exception message: Call to a member function findOne() on null in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 174
+[2021-10-12 23:27:22] Exception message: syntax error, unexpected 'else' (T_ELSE) in file: /var/www/my-microframework/App/View/aquarium/parts/aquarium-daily-form.tpl.php line number: 95
+[2021-10-12 23:43:43] Exception message: Validation Logic Exception!!! - it's not a data from form in file: /var/www/my-microframework/App/Model/Model.php line number: 273
+[2021-10-12 23:44:10] Exception message: Validation Logic Exception!!! - it's not a data from form in file: /var/www/my-microframework/App/Model/Model.php line number: 273
+[2021-10-12 23:45:21] Exception message: Validation Logic Exception!!! - it's not a data from form in file: /var/www/my-microframework/App/Model/Model.php line number: 273
+[2021-10-12 23:46:29] Exception message: Validation Logic Exception!!! - it's not a data from form in file: /var/www/my-microframework/App/Model/Model.php line number: 273
+[2021-10-12 23:46:53] Exception message: Validation Logic Exception!!! - it's not a data from form in file: /var/www/my-microframework/App/Model/Model.php line number: 273
+[2021-10-12 23:57:56] Exception message: syntax error, unexpected '6' (T_LNUMBER), expecting ']' in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 46
+[2021-10-12 23:59:34] Exception message: syntax error, unexpected '6' (T_LNUMBER), expecting ']' in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 46
+[2021-10-12 23:59:35] Exception message: syntax error, unexpected '6' (T_LNUMBER), expecting ']' in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 46
+[2021-10-12 23:59:35] Exception message: syntax error, unexpected '6' (T_LNUMBER), expecting ']' in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 46
+[2021-10-13 00:00:04] Exception message: Validation Logic Exception!!! - it's not a data from form in file: /var/www/my-microframework/App/Model/Model.php line number: 273
+[2021-10-13 00:02:32] Exception message: Validation Logic Exception!!! - it's not a data from form in file: /var/www/my-microframework/App/Model/Model.php line number: 273
+[2021-10-13 18:58:40] Exception message: There is no cookie for Auth in file: /var/www/my-microframework/App/Model/User.php line number: 130
+[2021-10-13 18:58:40] Exception message: There is no cookie for Auth in file: /var/www/my-microframework/App/Model/User.php line number: 130
+[2021-10-13 18:58:40] Exception message: There is no cookie for Auth in file: /var/www/my-microframework/App/Model/User.php line number: 130
+[2021-10-13 21:25:28] Exception message: There is no cookie for Auth in file: /var/www/my-microframework/App/Model/User.php line number: 130
+[2021-10-13 21:25:47] Exception message: There is no cookie for Auth in file: /var/www/my-microframework/App/Model/User.php line number: 130
+[2021-10-13 22:30:47] Exception message: Safe Error!!! - invalid Token in file: /var/www/my-microframework/App/Model/Model.php line number: 278
+[2021-10-13 22:30:53] Exception message: Safe Error!!! - invalid Token in file: /var/www/my-microframework/App/Model/Model.php line number: 278
+[2021-10-14 01:46:01] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 282
+[2021-10-14 01:47:02] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 282
+[2021-10-14 01:47:03] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 282
+[2021-10-14 01:47:04] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 282
+[2021-10-14 01:47:32] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 282
+[2021-10-14 01:48:14] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 282
+[2021-10-14 01:49:10] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 282
+[2021-10-15 00:22:08] Exception message: Call to undefined method App\Controller\View::userId() in file: /var/www/my-microframework/App/View/layout/ads.tpl.php line number: 50
+[2021-10-15 00:22:08] Exception message: Call to undefined method App\Controller\View::userId() in file: /var/www/my-microframework/App/View/layout/ads.tpl.php line number: 50
+[2021-10-15 01:00:02] Exception message: Validate token - logic exception: token is 'fe1b7c0842d552d89e5475949bb4bf3aa08df329f6e40568cd87fc76c2c2b1a8'. in file: /var/www/my-microframework/App/Model/Model.php line number: 225
+[2021-10-15 01:00:57] Exception message: Validate token - logic exception: token is 'fe1b7c0842d552d89e5475949bb4bf3aa08df329f6e40568cd87fc76c2c2b1a8'. in file: /var/www/my-microframework/App/Model/Model.php line number: 225
+[2021-10-15 22:40:59] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-15 22:41:16] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-15 22:47:27] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-15 23:38:26] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 00:27:15] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 00:28:09] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 00:28:21] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 00:28:53] Exception message: Validate img_two - logic exception: img_twoThere are no such fields in the database in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 142
+[2021-10-16 00:32:38] Exception message: Validate img_two - logic exception: img_twoThere are no such fields in the database in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 142
+[2021-10-16 00:33:09] Exception message: Validate img_two - logic exception: img_twoThere are no such fields in the database in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 142
+[2021-10-16 16:22:19] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 21:28:32] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 21:56:04] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 21:56:22] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 21:56:23] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 21:56:44] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 21:56:45] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-16 21:57:25] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 21:57:54] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:12:06] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:04] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:08] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:09] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:10] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:10] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:11] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:11] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:23:35] Exception message: File deletion error in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 245
+[2021-10-16 22:29:55] Exception message: File deletion error in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 245
+[2021-10-16 22:30:45] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:48:40] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:49:20] Exception message: Update of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-16 22:51:17] Exception message: Validate user_id - logic exception: user_idThere are no such fields in the database in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 142
+[2021-10-16 22:51:30] Exception message: Validate user_id - logic exception: user_idThere are no such fields in the database in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 142
+[2021-10-16 22:53:31] Exception message: Validate user_id - logic exception: user_idThere are no such fields in the database in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 142
+[2021-10-16 22:53:34] Exception message: Validate user_id - logic exception: user_idThere are no such fields in the database in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 142
+[2021-10-16 23:44:34] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 153
+[2021-10-17 00:15:52] Exception message: Delete of material - failed! in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 220
+[2021-10-21 02:29:36] Exception message: Teaser image file is not existed in file: /var/www/my-microframework/App/Model/ModelMethods.php line number: 251
+[2021-10-21 02:39:08] Exception message: SQL query error! in file: /var/www/my-microframework/App/Model/Model.php line number: 99
+[2021-10-25 04:42:34] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-10-29 04:47:16] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 04:47:16] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 04:47:18] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 04:47:19] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 17:43:04] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 17:43:05] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 18:21:58] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 21:12:27] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:11:02] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:11:02] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:21:33] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:21:34] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:22:36] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:22:41] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:22:50] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:22:50] Exception message: syntax error, unexpected '"CREATE TABLE "' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or '{' in file: /var/www/my-microframework/App/Model/User.php line number: 43
+[2021-10-29 22:53:28] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 22:53:40] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:00:58] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:04:59] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:05:00] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:05:00] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:05:01] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:33] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:34] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:35] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:35] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:35] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:35] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:36] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:36] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:36] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:36] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:37] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:37] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:37] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:37] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:37] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:38] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:38] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:38] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:42] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:42] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:13:44] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:15:43] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:15:44] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:15:44] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:15:44] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:15:44] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:15:45] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:15:45] Exception message: Call to a member function query() on null in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 39
+[2021-10-29 23:19:12] Exception message: PDO::__construct() expects parameter 2 to be string, array given in file: /var/www/my-microframework/App/Db/DbConnection.php line number: 26
+[2021-10-30 01:46:42] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-10-30 23:51:07] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-10-31 00:37:23] Exception message: SQL query error! in file: /var/www/my-microframework/App/Model/Model.php line number: 99
+[2021-10-31 17:54:36] Exception message: Function name must be a string in file: /var/www/my-microframework/App/Model/User.php line number: 209
+[2021-10-31 17:57:58] Exception message: Function name must be a string in file: /var/www/my-microframework/App/Model/User.php line number: 209
+[2021-11-01 01:24:27] Exception message: Cannot use object of type stdClass as array in file: /var/www/my-microframework/App/Controller/AbstractController.php line number: 22
+[2021-11-01 03:50:53] Exception message: syntax error, unexpected 'echo' (T_ECHO) in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 252
+[2021-11-01 22:20:33] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-11-01 22:20:38] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-11-02 00:23:12] Exception message: syntax error, unexpected '<', expecting end of file in file: /var/www/my-microframework/App/View/aquarium/task.tpl.php line number: 3
+[2021-11-05 22:48:58] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-11-05 22:49:09] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-11-05 22:49:26] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-11-05 22:51:58] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-11-05 22:52:32] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 192
+[2021-11-06 01:43:43] Exception message: syntax error, unexpected 'if' (T_IF) in file: /var/www/my-microframework/App/Model/Task.php line number: 119
+[2021-11-11 01:13:14] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 251
+[2021-11-11 01:13:18] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 251
+[2021-11-11 01:13:26] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 251
+[2021-11-11 01:15:24] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 251
+[2021-11-13 11:00:49] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 249
+[2021-11-13 11:01:33] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 249
+[2021-11-13 11:02:30] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 249
+[2021-11-13 11:02:36] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 249
+[2021-11-13 11:03:38] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 249
+[2021-11-13 11:03:53] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 249
+[2021-11-13 11:03:57] Exception message: Safe Error!!! - Token is empty! in file: /var/www/my-microframework/App/Model/Model.php line number: 249
+[2021-11-14 00:20:16] Exception message: Too few arguments to function App\Model\Model::validate(), 2 passed in /var/www/my-microframework/App/Model/User.php on line 44 and exactly 3 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 138
+[2021-11-14 00:20:26] Exception message: Too few arguments to function App\Model\Model::validate(), 2 passed in /var/www/my-microframework/App/Model/User.php on line 44 and exactly 3 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 138
+[2021-11-14 00:20:33] Exception message: Too few arguments to function App\Model\Model::validate(), 2 passed in /var/www/my-microframework/App/Model/User.php on line 44 and exactly 3 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 138
+[2021-11-14 00:20:38] Exception message: Too few arguments to function App\Model\Model::validate(), 2 passed in /var/www/my-microframework/App/Model/User.php on line 44 and exactly 3 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 138
+[2021-11-14 00:20:54] Exception message: Too few arguments to function App\Model\Model::validate(), 2 passed in /var/www/my-microframework/App/Model/User.php on line 44 and exactly 3 expected in file: /var/www/my-microframework/App/Model/Model.php line number: 138
+[2021-11-14 02:12:21] Exception message: Object of class Directory could not be converted to string in file: /var/www/my-microframework/App/View/aquarium/index.tpl.php line number: 67
+[2021-11-15 02:04:34] Exception message: Password entry - not valid in file: /var/www/my-microframework/App/Model/User.php line number: 74
+[2021-11-15 02:04:40] Exception message: Password entry - not valid in file: /var/www/my-microframework/App/Model/User.php line number: 74
+[2021-11-15 02:05:12] Exception message: Password entry - not valid in file: /var/www/my-microframework/App/Model/User.php line number: 74
+[2021-11-15 02:05:36] Exception message: Password entry - not valid in file: /var/www/my-microframework/App/Model/User.php line number: 74
+[2021-11-15 02:06:04] Exception message: Password entry - not valid in file: /var/www/my-microframework/App/Model/User.php line number: 74
+[2021-11-15 02:07:23] Exception message: Password entry - not valid in file: /var/www/my-microframework/App/Model/User.php line number: 74
+[2021-11-15 02:09:34] Exception message: Password entry - not valid in file: /var/www/my-microframework/App/Model/User.php line number: 74
+[2021-11-17 23:12:20] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 3 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:13:27] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 3 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:13:29] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 3 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:15:30] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 3 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:16:40] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:17:55] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:20:45] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:21:18] Exception message: Call to a member function findAll() on null in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 67
+[2021-11-17 23:28:37] Exception message: Too few arguments to function App\Controller\Routing::__construct(), 0 passed in /var/www/my-microframework/public/index.php on line 26 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/Routing.php line number: 12
+[2021-11-17 23:30:11] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:35:48] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:40:24] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 77 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:49:51] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 81 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:49:55] Exception message: Too few arguments to function App\Controller\AquariumController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 81 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-17 23:53:43] Exception message: Argument 1 passed to App\Controller\AquariumController::__construct() must be an instance of App\Model\Aquarium, string given, called in /var/www/my-microframework/App/Controller/Routing.php on line 81 in file: /var/www/my-microframework/App/Controller/AquariumController.php line number: 20
+[2021-11-18 00:03:18] Exception message: Class '\App\Controller\Aquarium' not found in file: /var/www/my-microframework/App/Controller/Routing.php line number: 83
+[2021-11-18 00:08:20] Exception message: Class '\App\Model\Admin' not found in file: /var/www/my-microframework/App/Controller/Routing.php line number: 83
+[2021-11-18 00:32:33] Exception message: Class 'App\Model\Validate' not found in file: /var/www/my-microframework/App/Model/Webform.php line number: 7
+[2021-11-18 01:00:24] Exception message: Too few arguments to function App\Controller\AdsController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 213 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AdsController.php line number: 13
+[2021-11-18 01:02:47] Exception message: Too few arguments to function App\Controller\AdsController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 213 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AdsController.php line number: 13
+[2021-11-18 01:03:23] Exception message: Too few arguments to function App\Controller\AdsController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 213 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AdsController.php line number: 13
+[2021-11-18 01:03:52] Exception message: Too few arguments to function App\Controller\AdsController::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 213 and exactly 1 expected in file: /var/www/my-microframework/App/Controller/AdsController.php line number: 13
+[2021-11-18 01:08:24] Exception message: Class 'App\Controller\Ads' not found in file: /var/www/my-microframework/App/Controller/Routing.php line number: 213
+[2021-11-18 01:11:40] Exception message: Class '\AquariumController\Model\Aquarium' not found in file: /var/www/my-microframework/App/Controller/Routing.php line number: 83
+[2021-11-18 02:02:58] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:04:01] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:04:36] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:04:37] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:04:37] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:04:38] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:04:39] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:07:22] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:08:24] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:08:25] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:08:25] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:08:58] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:08:59] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:08:59] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:23] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:24] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:24] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:25] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:25] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:36] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:38] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:09:40] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:10:33] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:10:34] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:10:34] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:10:34] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:10:34] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:22] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:22] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:23] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:23] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:23] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:24] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:24] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:24] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:24] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:25] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:11:25] Exception message: Too few arguments to function App\Model\Aquarium::__construct(), 0 passed in /var/www/my-microframework/App/Controller/Routing.php on line 85 and exactly 1 expected in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
+[2021-11-18 02:13:06] Exception message: Call to protected App\Db\DbConnection::__construct() from context 'App\Controller\Routing' in file: /var/www/my-microframework/App/Controller/Routing.php line number: 86
+[2021-11-18 02:17:07] Exception message: Argument 1 passed to App\Model\Aquarium::__construct() must be an instance of App\Db\DbConnection, null given, called in /var/www/my-microframework/App/Controller/Routing.php on line 86 in file: /var/www/my-microframework/App/Model/Aquarium.php line number: 18
